@@ -1,0 +1,4 @@
+opencv-python
+numpy
+tensorflow # Even if dummy, for realistic dependency
+argparse
