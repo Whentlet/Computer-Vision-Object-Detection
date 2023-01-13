@@ -3,3 +3,4 @@ Activity on 2023-01-05T00:00:00 - Clean up code
 Activity on 2023-01-06T00:00:00 - Improve error handling
 Activity on 2023-01-11T00:00:00 - Add new feature
 Activity on 2023-01-11T00:00:00 - Fix minor bug
+Activity on 2023-01-13T00:00:00 - Update README.md
