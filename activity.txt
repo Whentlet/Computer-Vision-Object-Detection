@@ -41,3 +41,4 @@ Activity on 2023-03-16T00:00:00 - Fix minor bug
 Activity on 2023-03-16T00:00:00 - Enhance UI
 Activity on 2023-03-16T00:00:00 - Update dependencies
 Activity on 2023-03-20T00:00:00 - Initial project setup
+Activity on 2023-03-20T00:00:00 - Improve documentation
