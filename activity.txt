@@ -77,3 +77,4 @@ Activity on 2023-06-06T00:00:00 - Fix typo
 Activity on 2023-06-07T00:00:00 - Clean up code
 Activity on 2023-06-16T00:00:00 - Update dependencies
 Activity on 2023-06-16T00:00:00 - Fix minor bug
+Activity on 2023-06-16T00:00:00 - Add model training script
