@@ -82,3 +82,4 @@ Activity on 2023-06-29T00:00:00 - Add model training script
 Activity on 2023-06-29T00:00:00 - Fix typo
 Activity on 2023-07-05T00:00:00 - Refactor utility functions
 Activity on 2023-07-05T00:00:00 - Clean up code
+Activity on 2023-07-05T00:00:00 - Improve documentation
