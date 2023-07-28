@@ -90,3 +90,4 @@ Activity on 2023-07-13T00:00:00 - Improve documentation
 Activity on 2023-07-18T00:00:00 - Refactor core logic
 Activity on 2023-07-24T00:00:00 - Improve documentation
 Activity on 2023-07-24T00:00:00 - Add unit tests
+Activity on 2023-07-28T00:00:00 - Update requirements.txt
