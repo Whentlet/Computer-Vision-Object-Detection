@@ -160,3 +160,4 @@ Activity on 2024-01-16T00:00:00 - Fix API endpoint
 Activity on 2024-01-18T00:00:00 - Clean up code
 Activity on 2024-01-18T00:00:00 - Refactor core logic
 Activity on 2024-01-19T00:00:00 - Fix API endpoint
+Activity on 2024-01-19T00:00:00 - Add unit tests
