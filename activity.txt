@@ -405,3 +405,4 @@ Activity on 2025-08-26T00:00:00 - Fix typo
 Activity on 2025-08-27T00:00:00 - Improve error handling
 Activity on 2025-08-27T00:00:00 - Add new feature
 Activity on 2025-08-27T00:00:00 - Add model training script
+Activity on 2025-08-28T00:00:00 - Improve documentation
