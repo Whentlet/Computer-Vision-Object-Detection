@@ -440,3 +440,4 @@ Activity on 2025-11-17T00:00:00 - Add model training script
 Activity on 2025-11-17T00:00:00 - Add logging
 Activity on 2025-11-18T00:00:00 - Refactor utility functions
 Activity on 2025-11-18T00:00:00 - Fix minor bug
+Activity on 2025-11-28T00:00:00 - Improve documentation
